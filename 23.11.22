@@ -1,0 +1,39 @@
+a=10
+b=20
+if b>a:
+   print(b)
+else:
+   print(a)
+
+output:20
+   
+   
+   
+a=10
+b=10
+if a==b:
+    print('equal')
+else:
+    print('no equal')
+    
+output:equal
+
+
+a=7
+b=-3
+if a>b:
+    print('positive')
+else:
+    print('negative')
+
+output:positive
+
+
+
+a=7
+if a%2:
+    print('even')
+else:
+    print('odd')
+    
+ouyput:even
